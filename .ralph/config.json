@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "language": "en",
+  "provider": "hcloud",
+  "vm_name": "ralph-sandbox",
+  "region": "nbg1",
+  "vm_ip": "",
+  "user": "Carsten.Hoyer",
+  "notifications": {
+    "ntfy_enabled": true,
+    "ntfy_topic": "ralph-notifications"
+  },
+  "github": {
+    "username": "CarstenHoyer"
+  },
+  "claude": {
+    "auth_method": "subscription"
+  }
+}
